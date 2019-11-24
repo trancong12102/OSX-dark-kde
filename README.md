@@ -50,7 +50,7 @@
 
 - Copy color-schemes folder to ~/.local/share/color-schemes
 
-## Latte Layout
+## Latte Layout (Thanks [n4n0GH](n4n0GH))
 
 - osx-dark.layout.latte
   
