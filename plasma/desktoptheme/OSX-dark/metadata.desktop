@@ -1,0 +1,17 @@
+[ContrastEffect]
+contrast=0.2
+enabled=false
+intensity=0.4
+saturation=1.7
+
+[Desktop Entry]
+Name=OSX-dark
+X-KDE-PluginInfo-Author=Trần Công 
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=nopain2110@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=CCPL:by-sa
+X-KDE-PluginInfo-Name=OSX-Dark
+X-KDE-PluginInfo-Version=.0.23
+X-KDE-PluginInfo-Website=
