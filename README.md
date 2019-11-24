@@ -20,7 +20,9 @@
 
 - [Present Windows Button](https://github.com/Zren/plasma-applet-presentwindows) with custom icon (menu.svg)
 
-## KWin 
+- [Latte Separator](https://github.com/psifidotos/applet-latte-separator)
+
+## KWin
 
 - [Decoration and KWin Effect](https://github.com/n4n0GH/hello)
 
