@@ -22,7 +22,7 @@
 
 - [Latte Separator](https://github.com/psifidotos/applet-latte-separator)
 
-## KWin
+## KWin (Thanks [n4n0GH](n4n0GH))
 
 - [Decoration and KWin Effect](https://github.com/n4n0GH/hello)
 
@@ -50,7 +50,7 @@
 
 - Copy color-schemes folder to ~/.local/share/color-schemes
 
-## Latte Layout (Thanks [n4n0GH](n4n0GH))
+## Latte Layout
 
 - osx-dark.layout.latte
   
